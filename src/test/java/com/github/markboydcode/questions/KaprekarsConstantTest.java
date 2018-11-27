@@ -10,7 +10,8 @@ import static org.testng.Assert.fail;
  *
  * http://www.mathsnut.net/topics/calculators/kaprekar.html
  *
- * to generate the sequence for any number to define more tests if desired.
+ * to generate the sequence for any number to define more tests if desired. Warning: this site does not correctly
+ * implement the algorithm for starting numbers smaller than four digits such as 0001.
  *
  * @author boydmr
  */
