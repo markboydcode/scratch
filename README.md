@@ -10,4 +10,4 @@
 
 Complete the algorithm in the [KaprekarsConstant](src/main/java/com/github/markboydcode/questions/KaprekarsConstant.java) class using the provided [unit tests](src/test/java/com/github/markboydcode/questions/KaprekarsConstantTest.java) to verify your implementation. Several tests already pass. The remainder should pass once your implementation is complete.
 
-[](kaprekarsUnitTests.png)  
+![](kaprekarsUnitTests.png)  
