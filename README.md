@@ -8,4 +8,6 @@
 * Use this new four digit number and repeat the above process until you arrive at Kaprekar's constant of 6174.
 * Return the count of the number of iterations it took to arrive at this constant.
 
-Complete the algorithm in the [KaprekarsConstant](src/main/java/com/github/markboydcode/questions/KaprekarsConstant.java) class using the provided unit tests to verify your implementation and add other unit tests you feel should be included.  
+Complete the algorithm in the [KaprekarsConstant](src/main/java/com/github/markboydcode/questions/KaprekarsConstant.java) class using the provided [unit tests](src/test/java/com/github/markboydcode/questions/KaprekarsConstantTest.java) to verify your implementation. Several tests already pass. The remainder should pass once your implementation is complete.
+
+[](kaprekarsUnitTests.png)  
